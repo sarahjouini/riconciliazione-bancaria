@@ -1,0 +1,9 @@
+cliente,fatture_aperte,esposizione,ritardo_max,ritardo_medio,scoring
+AgriToscana SOC COOP,5,14438.490000000002,147,76.0,C - rischio
+Studio Neri & Associati,2,8128.02,129,122.0,C - rischio
+InfoService SRL,1,4745.36,92,92.0,B - attenzione
+Rossi Costruzioni SRL,1,3374.06,136,136.0,B - attenzione
+Toscana Impianti SNC,1,3346.11,73,73.0,B - attenzione
+Bianchi Alimentari SPA,1,2849.8,57,57.0,A - ok
+Elettrodomestici Gallo SRL,1,1534.27,128,128.0,B - attenzione
+Meccanica Fiorentina SRL,1,946.3,66,66.0,B - attenzione

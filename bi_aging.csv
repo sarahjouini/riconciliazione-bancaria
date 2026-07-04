@@ -1,0 +1,6 @@
+fascia,numero_fatture,importo_totale,percentuale
+Non scaduta,,,
+0-30 giorni,1.0,4608.77,11.7
+31-60 giorni,2.0,3842.4100000000003,9.8
+61-90 giorni,3.0,8149.83,20.7
+Oltre 90 giorni,7.0,22761.4,57.8
